@@ -1,0 +1,68 @@
+.one{
+
+    
+    height: 1483px;
+    margin: 100px 400px 100px 400px;
+    border-radius: 20px;
+
+}
+
+.two{
+
+    border: 3px dotted white;
+    height: 1440px;
+    margin-top: -1400px;
+    margin-left: 38px;
+    border-radius: 20px;
+    width: 450;
+
+}
+.three{
+
+    border: 1px solid red;
+    height: 200px;
+    border-radius: 20px;
+    width: 530;
+    background-color: purple;
+
+}
+.four{
+
+    border: 1px solid red;
+    height: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+    width: 530;
+    background-color: purple;
+
+}
+.five{
+
+    border: 1px solid red;
+    height: 200px;
+    width: 530;
+    margin-top: 60px;
+    margin-left: -1px;
+    background-color: purple;
+}
+p{
+    margin-left: 140px;
+    margin-top: 50px;
+}
+
+.seven{
+    margin-left: 210px;
+    margin-top: 50px;
+}
+.nine{
+    
+    width: 200px;
+    margin-left: 125px;
+    height: 20px;
+    margin-top: -10px;
+    background-color: purple;
+    text-align: center; 
+    color: white;
+}
+
